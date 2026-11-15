@@ -1,0 +1,6 @@
+*.swo
+*.swp
+Thumbs.db
+*.log
+.DS_Store
+.idea/
